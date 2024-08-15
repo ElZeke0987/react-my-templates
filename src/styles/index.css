@@ -1,0 +1,24 @@
+.faste-nav {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  height: 6vh;
+  background-color: #978b8b;
+  padding: 10px;
+}
+.faste-nav .nav-container {
+  display: flex;
+  flex-direction: row;
+  width: 2fr;
+  height: 100%;
+}
+.faste-nav .nav-container .nav-item a {
+  padding: 15px;
+  text-decoration: none;
+  color: #161313;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}/*# sourceMappingURL=index.css.map */
